@@ -1,3 +1,9 @@
+--About the project--
+I chose the Microsoft AdventureWorks project for Data Analysis & Visualization.
+Data source: Github 
+Visualization: Power BI
+Analysis: Power Query Editor
+
 Sales Overview Dashboard
 ![Screenshot 2023-12-16 222301](https://github.com/rekha1239/AdventureWorks-Database-Analysis-Power-Bi-Project/assets/143036945/50bcb624-1c67-4059-abee-d45ce02d410c)
 
