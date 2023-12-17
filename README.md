@@ -1,4 +1,5 @@
---About the project-
+--About the project--
+
 I completed a Data Analysis and Visualization project with the Microsoft AdventureWorks dataset. I obtained the data from GitHub, organized it in Excel, and used the Power Query Editor for analysis. For visualization, I utilized the Power BI tool to create an interactive sales report.
 
 Sales Overview Dashboard
